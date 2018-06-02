@@ -8,14 +8,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #333;
     line-height: 1.5em;
-    padding: 25px;
 }
-
-img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
-}
-
-/* Voeg jouw css hieraan toe */
 
 div{
     width: 25%;
@@ -27,6 +20,7 @@ div{
 .knoppen{
     background-color:#372256;
     padding: 10px;
+    padding-left: 15px;
     border:5px solid #372256;
 }
 
@@ -61,11 +55,11 @@ p{
 
 .icons{
     position: absolute;
-    top: 59%;
+    top: 57%;
     background-color: #D1CD3E;
     color: #A3A340;
     font-size: 2rem;
-    padding: 20px 5px 50px 5px ;
+    padding: 20px 5px 50px 10px ;
     border: 5px solid #D1CD3E;
     list-style-type: none;
     width: 25%;
@@ -78,12 +72,12 @@ p{
     height: auto;
 }
 
-.fonts{
+.Fonts{
     position: absolute;
-    Top: 120%;
+    top: 118%;
     background-color: #9478B5;
     font-size: 2rem;
-    padding: 20px 5px 20px 5px ;
+    padding: 20px 5px 580px 10px ;
     border: 5px solid #9478B5;
     list-style-type: none;
     width: 25%;
